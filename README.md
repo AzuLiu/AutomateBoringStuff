@@ -8,6 +8,8 @@ Theses codes are written in the process of learning this book.
 
 It not onliy includes most practice from this book and but aslo some intereting stuff I made up with.
 
+I am sorry for the mess of my code, I don't realize that I will upload my file to my github when I was writing this.
+
 I have to say it's a great book to start to code.
 
 You can learn very usfeul and pratical skills to solve automatic problems in your office, such as excell,pdf,word,email,etc.
