@@ -1,0 +1,1 @@
+@py.exe F:\MyPython\Automate\bingImage2.py %*
