@@ -4,6 +4,8 @@
 
 Automate boring stuff with Python.
 
+This is my first book about coding.
+
 Theses codes are written in the process of learning this book.
 
 It not onliy includes most practice from this book and but aslo some intereting stuff I made up with.
