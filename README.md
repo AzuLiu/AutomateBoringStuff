@@ -8,15 +8,15 @@ This is my first book about coding.
 
 Theses codes are written in the process of learning this book.
 
-It not onliy includes most practice from this book and but aslo some intereting stuff I made up with.
+It not only includes most practice from this book and but aslo some interesting stuff I made up with.
 
 I am sorry for the mess of my code, I don't realize that I will upload my file to my github when I was writing this.
 
 I have to say it's a great book to start to code.
 
-You can learn very usfeul and pratical skills to solve automatic problems in your office, such as excell,pdf,word,email,etc.
+You can learn very useful and pratical skills to solve automatic problems in your office, such as excel,pdf,word,email,etc.
 
-But it also has a big disadvantage that it's too simple so that it just tells you how to do withou expilicit explanation.
+But it also has a big disadvantage that it's too simple so that it just tells you how to do without expilicit explaination.
 
 As I say, it's just a start!
 
